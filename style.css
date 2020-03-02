@@ -7,8 +7,8 @@
 }
 
 html, body {
-  width: 720px;
-  height: 1280px;
+  width: auto;
+  height: auto;
  }
 
 /*| Navigation |*/
@@ -16,8 +16,8 @@ nav {
   position: fixed;
   top: 0;
   left: 0;
-  width: 720px;
-  height: 1280px;
+  width: auto;
+  height: auto;
   background: #fff;
   box-shadow: 0 3px 10px -2px rgba(0, 0, 0, 0.1);
   border: 1px solid rgba(0, 0, 0, 0.1);
